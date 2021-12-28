@@ -1,0 +1,10 @@
+C:\Users\akaab\Desktop\CGPProject\bin\Debug\CGPProject.exe.config
+C:\Users\akaab\Desktop\CGPProject\bin\Debug\CGPProject.exe
+C:\Users\akaab\Desktop\CGPProject\bin\Debug\CGPProject.pdb
+C:\Users\akaab\Desktop\CGPProject\obj\Debug\CGPProject.csprojAssemblyReference.cache
+C:\Users\akaab\Desktop\CGPProject\obj\Debug\CGPProject.Properties.Resources.resources
+C:\Users\akaab\Desktop\CGPProject\obj\Debug\CGPProject.csproj.GenerateResource.cache
+C:\Users\akaab\Desktop\CGPProject\obj\Debug\CGPProject.csproj.CoreCompileInputs.cache
+C:\Users\akaab\Desktop\CGPProject\obj\Debug\CGPProject.exe
+C:\Users\akaab\Desktop\CGPProject\obj\Debug\CGPProject.pdb
+C:\Users\akaab\Desktop\CGPProject\obj\Debug\Cg.GrafPack.resources
